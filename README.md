@@ -6,3 +6,7 @@ tornando algo mais prático e rápido.</h3>
 
 <h2>Tecnologias utilizadas:</h2>
 <p> - Python<br> - Pyautogui<br> - Pyperclip<br> - Pandas</p>
+
+<h2>Vídeo abaixo mostrando na prática com apenas um click:</h2>
+
+![Védeo de teste](https://github.com/Skykes777/AutomacaoEvioDeEmail/blob/main/20220804_005511.gif)
